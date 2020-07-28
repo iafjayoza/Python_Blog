@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c067142d-af9d-43a7-90dd-03220a34d0b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pyblog/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyblog/templates/post_id.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/routes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyblog/site.db" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/site.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyblog/templates/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/templates/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyblog/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyblog/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pyblog/templates/layout.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,10 +155,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.pythonblog" />
+        <item itemvalue="Python.routes" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.models" />
         <item itemvalue="Python.forms (1)" />
-        <item itemvalue="Python.routes" />
       </list>
     </recent_temporary>
   </component>
